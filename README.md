@@ -1,6 +1,10 @@
 # Olá! Sou Paulo Henrique 👋
+
+## Sobre mim:
 Sou um profissional multidisciplinar com formação sólida em engenharia e finanças, e atualmente me aprofundando no universo da ciência de dados.  
 Tenho interesse em aplicar conhecimento técnico e analítico para resolver problemas dos simples aos complexos, especialmente em contextos financeiros e estratégicos.  
+
+---
 
 🎓**Bacharel em Ciência e Tecnologia - UFABC**.  
 🚀**Engenharia Aeroespacial - UFABC**.  
