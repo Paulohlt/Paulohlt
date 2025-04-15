@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá! Sou Paulo Henrique 👋
 
-<!--
-**Paulohlt/Paulohlt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Bacharel em Ciência e Tecnologia - UFABC
+🚀 Engenharia Aeroespacial - UFABC
+📊 Pós-graduado em Financial Management - Insper
+📚 Cursando Ciências de Dados - Mackenzie
+💭 Pesquisando sobre **Redes Neurais, Modelos Probabilísticos, Risco de Crédito e Modelagem Atuarial**.  
+🎯 Interesse em **IA Generativa, Séries Temporais, Precificação de Ativos e Análise de Risco**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ **Conhecimentos e Habilidades**
+
+🧮 **Matemática Aplicada**: `Álgebra Linear`, `Cálculo Numérico`, `Otimização`, `Teoria da Probabilidade`, `Processos Estocásticos`  
+💰 **Riscos & Finanças**: `Modelagem de Risco`,`VaR`, `Precificação de Ativos`, `Derivativos`, `Black-Scholes`, `Monte Carlo`
+🐍 **Linguagens**: `Python`, `R`, `Julia`, `VBA`
+💾 **Bancos de Dados & Engenharia de Dados**: `SQL`, `PostgreSQL`, `MongoDB`, `BigQuery`, `Apache Spark`   
+🧠 **Inteligência Artificial & Machine Learning**
+
