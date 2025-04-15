@@ -1,11 +1,11 @@
 # Olá! Sou Paulo Henrique 👋
 
-**🎓 Bacharel em Ciência e Tecnologia - UFABC**.
-**🚀 Engenharia Aeroespacial - UFABC**.
-**📊 Pós-graduado em Financial Management - Insper**.
-**📚 Cursando Ciências de Dados - Mackenzie**.
-**💭 Pesquisando sobre **Redes Neurais, Modelos Probabilísticos, Risco de Crédito e Modelagem Atuarial**.  
-**🎯 Interesse em **IA Generativa, Séries Temporais, Precificação de Ativos e Análise de Risco**.  
+🎓**Bacharel em Ciência e Tecnologia - UFABC**.
+🚀**Engenharia Aeroespacial - UFABC**.
+📊 **Pós-graduado em Financial Management - Insper**.
+📚 **Cursando Ciências de Dados - Mackenzie**.
+💭 **Pesquisando sobre **Redes Neurais, Modelos Probabilísticos, Risco de Crédito e Modelagem Atuarial**.  
+🎯 **Interesse em **IA Generativa, Séries Temporais, Precificação de Ativos e Análise de Risco**.  
 
 ---
 
