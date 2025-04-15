@@ -17,7 +17,7 @@ Tenho interesse em aplicar conhecimento técnico e analítico para resolver dos 
 ## 🛠️ **Conhecimentos e Habilidades**
 
 🧮 **Matemática Aplicada**: `Álgebra Linear`, `Cálculo Numérico`, `Otimização`, `Teoria da Probabilidade`, `Processos Estocásticos`  
-💰 **Riscos & Finanças**: `Modelagem de Risco`,`VaR`, `ALM`,`Precificação de Ativos`, `Derivativos Financeiros`, `Black-Scholes`
+💰 **Riscos & Finanças**: `Modelagem de Risco`,`VaR`, `ALM`,`Precificação de Ativos`, `Derivativos Financeiros`, `Black-Scholes`  
 🐍 **Linguagens**: `Python`, `R`, `Julia`, `VBA`    
 💾 **Bancos de Dados & Engenharia de Dados**: `SQL`, `PostgreSQL`, `MongoDB`   
 🧠 **Inteligência Artificial & Machine Learning** `Generative Adversarial Networks`, `Scikit-Learn`, `TensorFlow`
