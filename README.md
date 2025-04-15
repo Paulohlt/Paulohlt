@@ -1,11 +1,13 @@
 # Olá! Sou Paulo Henrique 👋
+Sou um profissional multidisciplinar com formação sólida em engenharia e finanças, e atualmente me aprofundando no universo da ciência de dados.  
+Tenho interesse em aplicar conhecimento técnico e analítico para resolver problemas dos simples aos complexos, especialmente em contextos financeiros e estratégicos.  
 
 🎓**Bacharel em Ciência e Tecnologia - UFABC**.  
 🚀**Engenharia Aeroespacial - UFABC**.  
 📊 **Pós-graduado em Financial Management - Insper**.  
 📚 **Cursando Ciências de Dados - Mackenzie**.  
-💭 **Pesquisando sobre **Redes Neurais, Modelos Probabilísticos, Risco de Crédito e Modelagem Atuarial**.  
-🎯 **Interesse em **IA Generativa, Séries Temporais, Precificação de Ativos e Análise de Risco**.  
+💭 Pesquisando sobre **Redes Neurais, Modelos Probabilísticos, Risco de Crédito e Modelagem Atuarial**.  
+🎯 Interesse em **IA Generativa, Séries Temporais, Precificação de Ativos e Análise de Risco**.  
 
 ---
 
