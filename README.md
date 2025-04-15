@@ -1,7 +1,8 @@
 # Olá! Sou Paulo Henrique 👋
 
 ## Sobre mim:
-Sou um profissional multidisciplinar com formação sólida em finanças, e atualmente me aprofundando no universo da ciência de dados.  
+Sou um profissional multidisciplinar com formação sólida em finanças e matemática.  
+Atualmente me aprofundando universo da ciência de dados e IA.   
 Tenho interesse em aplicar conhecimento técnico e analítico para resolver problemas dos simples aos complexos, especialmente em contextos financeiros e estratégicos.  
 
 ---
