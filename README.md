@@ -1,4 +1,4 @@
-# Olá! Sou Paulo Henrique 👋  
+## Olá! Sou Paulo Henrique 👋  
 🎓**Bacharel em Ciência e Tecnologia - UFABC**.  
 🚀**Engenharia Aeroespacial - UFABC**.  
 📊 **Pós-graduado em Financial Management - Insper**.  
