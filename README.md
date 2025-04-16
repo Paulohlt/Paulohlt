@@ -8,7 +8,7 @@
 
 ---
 ## 📌 **Sobre mim**
-Sou um profissional multidisciplinar com formação sólida em **finanças e matemática**.  
+Sou um profissional multidisciplinar com formação sólida em **finanças** e **matemática**.  
 Atualmente me aprofundando universo da **ciência de dados e IA**.   
 Tenho interesse em aplicar conhecimento técnico e analítico para resolver dos problemas simples aos complexos.
 
