@@ -4,7 +4,7 @@
 📊 **Pós-graduado em Financial Management - Insper**.  
 📚 **Cursando Ciências de Dados - Mackenzie**.  
 💭 Pesquisando sobre **Redes Neurais, Modelos Probabilísticos, Risco de Crédito e Modelagem Atuarial**.  
-🎯 Interesse em **IA Generativa, Séries Temporais, Análise de Dados, Precificação de Ativos e Análise de Risco**. 
+🎯 Interesse em **IA Generativa, Deep Learning, Séries Temporais, Análise de Dados, Precificação de Ativos e Análise de Risco**. 
 
 ---
 ## 📌 **Sobre mim**
