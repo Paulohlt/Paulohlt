@@ -7,7 +7,7 @@
 🎯 Interesse em **IA Generativa, Deep Learning, Séries Temporais, Análise de Dados, Precificação de Ativos e Análise de Risco**. 
 
 ---
-## 📌 **Sobre mim**  
+## 📌 **Sobre mim** 
   
 Sou um profissional multidisciplinar com formação sólida em **finanças** e **matemática**.  
 Atualmente me aprofundando universo da **ciência de dados e IA**.   
