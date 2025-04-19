@@ -11,8 +11,8 @@
   
 Sou um profissional multidisciplinar com formação sólida em **finanças** e **matemática**.  
 Atualmente me aprofundando universo da **ciência de dados e IA**.   
-Tenho interesse em aplicar conhecimento técnico e analítico para resolver dos problemas mais simples aos mais complexos.
-Modelagem e Engenharia Financeira - Risco Tesouraria  
+Tenho interesse em aplicar conhecimento técnico e analítico para resolver dos problemas mais simples aos mais complexos.  
+Modelagem e Engenharia Financeira - Risco de Tesouraria  
 
 ---  
 
